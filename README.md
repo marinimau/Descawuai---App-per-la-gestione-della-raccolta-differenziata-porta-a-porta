@@ -1,6 +1,6 @@
 # Descawuai - app per la gestione della raccolta differenziata
 
-![alt text]("https://lh3.googleusercontent.com/P_kQIl797hn_afYqcFabdn2lbuIHcEuwv16aKA5RWFTkiW4QvKRawziRyIhDkLmWrw=s360")
+![alt text](https://lh3.googleusercontent.com/P_kQIl797hn_afYqcFabdn2lbuIHcEuwv16aKA5RWFTkiW4QvKRawziRyIhDkLmWrw=s360)
 
 App per la gestione facile della raccolta differenziata porta a porta. L'app è stata sviluppata per poter funzionare anche senza il contributo del proprio comune. Può tuttavia offrire funzionalità extra in caso di adozione da parte del proprio comune. L'app può monitorare contemporaneamente, per ciascun utente, i calendari di raccolta di 3 differenti abitazioni.
 
